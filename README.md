@@ -9,7 +9,6 @@
 
 - 💻 Currently exploring **backend development(Springboot)**
 
-- 💬 Ask me about **Flutter, Firebase, databases**
 
 - 📫 How to reach me **chrisysstephen@gmail.com**
 
