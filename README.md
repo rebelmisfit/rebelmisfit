@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christine Stephen</h1>
-<h3 align="center"> pre-final year IT undergrad at PICT</h3>
+<h3 align="center"> Final year IT undergrad at PICT</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
