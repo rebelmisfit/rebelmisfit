@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/athoughtspiral" target="blank"><img src="https://img.shields.io/twitter/follow/athoughtspiral?logo=twitter&style=for-the-badge" alt="athoughtspiral" /></a> </p>
 
-- 💻 Currently exploring :  **M.E.R.N** stack 
+
 - 💻 Technical expertise :  **App development(Flutter)**, **Firebase**, **Angular**, **SpringBoot**
 
 
